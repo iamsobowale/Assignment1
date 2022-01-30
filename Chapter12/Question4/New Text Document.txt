@@ -1,0 +1,4 @@
+An exception is defined as an event that occurs during the execution of a program that is unexpected by the program code. 
+
+
+Exception handling is handler that occursso that the program code does not crash. 

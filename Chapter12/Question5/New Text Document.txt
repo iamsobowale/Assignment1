@@ -1,0 +1,3 @@
+By using a finally block, you can clean up any resources that are allocated in a try block, and you can run code even if an exception occurs in the try block.
+
+the using statement ensures that Dispose is called even if an exception occurs while you are calling methods on the object. You can achieve the same result by putting the object inside a try block and then calling Dispose in a finally block; in fact, this is how the using statement is translated by the compiler.
